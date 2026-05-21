@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Blazemaster.aternos.me
+    ",
+    "port": 48537,
     "version": "1.20.1",
     "try-creative": false
   },
